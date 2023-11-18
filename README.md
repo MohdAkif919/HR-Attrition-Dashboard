@@ -16,5 +16,12 @@ During my Internship at MeriSKILL as a Data Analyst, I developed a comprehensive
 
 5. **Turnover Analysis - II:** Consolidates data on job levels, overtime, monthly income, and attrition increase levels, aiding in crafting robust HR strategies.
 
+# Screenshot
+![image](https://github.com/MohdAkif919/HR-Attrition-Dashboard/assets/58876003/5774ae9f-8c0c-4822-b62c-9368f582b67e)
+![image](https://github.com/MohdAkif919/HR-Attrition-Dashboard/assets/58876003/3e9c9e3b-7476-418b-bafa-97844303da98)
+![image](https://github.com/MohdAkif919/HR-Attrition-Dashboard/assets/58876003/5bd89c07-9036-4a58-ab49-dd42db7f534c)
+![image](https://github.com/MohdAkif919/HR-Attrition-Dashboard/assets/58876003/2fa12242-86e2-4bbb-ba18-51de6324ff99)
+![image](https://github.com/MohdAkif919/HR-Attrition-Dashboard/assets/58876003/34069447-144d-4500-9a30-287449476015)
+
 # Tool(s) Used
 - Power BI
